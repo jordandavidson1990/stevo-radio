@@ -5,7 +5,7 @@
 
 html {
   height: 100%;
-  background-image: url("/assets/stevo.jpeg");
+  background-image: url("./components/assets/stevo.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
 }
