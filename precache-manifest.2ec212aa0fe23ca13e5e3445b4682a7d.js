@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dacf955e886366dcf8da06bd04c29833",
+    "revision": "6ace235bcc7f973420e34b22e2451741",
     "url": "/stevo-radio/index.html"
   },
   {
-    "revision": "5a286657af7b0f793952",
-    "url": "/stevo-radio/static/css/main.82a90645.chunk.css"
+    "revision": "c18897c3af34c41d73c4",
+    "url": "/stevo-radio/static/css/main.74ea324c.chunk.css"
   },
   {
     "revision": "dc4333f8ff19915694a2",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stevo-radio/static/js/2.20bd8e45.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a286657af7b0f793952",
+    "revision": "c18897c3af34c41d73c4",
     "url": "/stevo-radio/static/js/main.71e0c4ce.chunk.js"
   },
   {
