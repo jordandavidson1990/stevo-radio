@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "456bd9e9fcd455176e906555f3c7a49a",
+    "revision": "cbf3e9efa2d27dedcac1313116158857",
     "url": "/stevo-radio/index.html"
   },
   {
