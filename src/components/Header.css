@@ -1,8 +1,10 @@
 .header {
-  background: green;
+  background: #3c3b3b;
   text-align: center;
   color: white;
   position: absolute;
   width: 100%;
   top: 3vh;
+  font-family: radio;
+  opacity: 0.8;
 }
