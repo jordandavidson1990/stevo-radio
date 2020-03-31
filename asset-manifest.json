@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stevo-radio/static/css/main.82a90645.chunk.css",
+    "main.js": "/stevo-radio/static/js/main.71e0c4ce.chunk.js",
+    "main.js.map": "/stevo-radio/static/js/main.71e0c4ce.chunk.js.map",
+    "runtime-main.js": "/stevo-radio/static/js/runtime-main.5368b15b.js",
+    "runtime-main.js.map": "/stevo-radio/static/js/runtime-main.5368b15b.js.map",
+    "static/js/2.20bd8e45.chunk.js": "/stevo-radio/static/js/2.20bd8e45.chunk.js",
+    "static/js/2.20bd8e45.chunk.js.map": "/stevo-radio/static/js/2.20bd8e45.chunk.js.map",
+    "index.html": "/stevo-radio/index.html",
+    "precache-manifest.dd00c7c2a2a3e6af5324ac427e8cfcbd.js": "/stevo-radio/precache-manifest.dd00c7c2a2a3e6af5324ac427e8cfcbd.js",
+    "service-worker.js": "/stevo-radio/service-worker.js",
+    "static/css/main.82a90645.chunk.css.map": "/stevo-radio/static/css/main.82a90645.chunk.css.map",
+    "static/js/2.20bd8e45.chunk.js.LICENSE.txt": "/stevo-radio/static/js/2.20bd8e45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5368b15b.js",
+    "static/js/2.20bd8e45.chunk.js",
+    "static/css/main.82a90645.chunk.css",
+    "static/js/main.71e0c4ce.chunk.js"
+  ]
+}
