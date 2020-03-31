@@ -7,4 +7,9 @@
   top: 3vh;
   font-family: radio;
   opacity: 0.8;
+  font-family: radio, sans-serif;
+}
+@font-face {
+  font-family: radio;
+  src: url("../fonts/Radio.ttf");
 }
