@@ -1,0 +1,12 @@
+.audio-player-container {
+  position: absolute;
+  top: 40vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.audio-player {
+  display: flex;
+  opacity: 0.5;
+}
