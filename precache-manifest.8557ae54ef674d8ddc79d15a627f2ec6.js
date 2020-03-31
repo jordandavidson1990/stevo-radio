@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e5804a83f2a19a105a9719294d90c15",
+    "revision": "456bd9e9fcd455176e906555f3c7a49a",
     "url": "/stevo-radio/index.html"
   },
   {
-    "revision": "c24a11045579f672658d",
-    "url": "/stevo-radio/static/css/main.bda10f82.chunk.css"
+    "revision": "0257bbd8d0c18a870c0d",
+    "url": "/stevo-radio/static/css/main.f233fbef.chunk.css"
   },
   {
     "revision": "dc4333f8ff19915694a2",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stevo-radio/static/js/2.20bd8e45.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c24a11045579f672658d",
-    "url": "/stevo-radio/static/js/main.71e0c4ce.chunk.js"
+    "revision": "0257bbd8d0c18a870c0d",
+    "url": "/stevo-radio/static/js/main.e156b2c6.chunk.js"
   },
   {
     "revision": "9c257ab3a8822f237f38",
     "url": "/stevo-radio/static/js/runtime-main.5368b15b.js"
+  },
+  {
+    "revision": "844d259b32c1887331cba2f87c9b8754",
+    "url": "/stevo-radio/static/media/Radio.844d259b.ttf"
   },
   {
     "revision": "6d29878fec88cdeca7cc19bf9c7d288f",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/stevo-radio/precache-manifest.1002756d1ccb5b19f61c9d907f8543bf.js"
+  "/stevo-radio/precache-manifest.8557ae54ef674d8ddc79d15a627f2ec6.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/stevo-radio/static/css/main.bda10f82.chunk.css",
-    "main.js": "/stevo-radio/static/js/main.71e0c4ce.chunk.js",
-    "main.js.map": "/stevo-radio/static/js/main.71e0c4ce.chunk.js.map",
+    "main.css": "/stevo-radio/static/css/main.f233fbef.chunk.css",
+    "main.js": "/stevo-radio/static/js/main.e156b2c6.chunk.js",
+    "main.js.map": "/stevo-radio/static/js/main.e156b2c6.chunk.js.map",
     "runtime-main.js": "/stevo-radio/static/js/runtime-main.5368b15b.js",
     "runtime-main.js.map": "/stevo-radio/static/js/runtime-main.5368b15b.js.map",
     "static/js/2.20bd8e45.chunk.js": "/stevo-radio/static/js/2.20bd8e45.chunk.js",
     "static/js/2.20bd8e45.chunk.js.map": "/stevo-radio/static/js/2.20bd8e45.chunk.js.map",
     "index.html": "/stevo-radio/index.html",
-    "precache-manifest.1002756d1ccb5b19f61c9d907f8543bf.js": "/stevo-radio/precache-manifest.1002756d1ccb5b19f61c9d907f8543bf.js",
+    "precache-manifest.8557ae54ef674d8ddc79d15a627f2ec6.js": "/stevo-radio/precache-manifest.8557ae54ef674d8ddc79d15a627f2ec6.js",
     "service-worker.js": "/stevo-radio/service-worker.js",
-    "static/css/main.bda10f82.chunk.css.map": "/stevo-radio/static/css/main.bda10f82.chunk.css.map",
+    "static/css/main.f233fbef.chunk.css.map": "/stevo-radio/static/css/main.f233fbef.chunk.css.map",
     "static/js/2.20bd8e45.chunk.js.LICENSE.txt": "/stevo-radio/static/js/2.20bd8e45.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/stevo-radio/static/media/Radio.844d259b.ttf",
     "static/media/App.css": "/stevo-radio/static/media/stevo.6d29878f.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.5368b15b.js",
     "static/js/2.20bd8e45.chunk.js",
-    "static/css/main.bda10f82.chunk.css",
-    "static/js/main.71e0c4ce.chunk.js"
+    "static/css/main.f233fbef.chunk.css",
+    "static/js/main.e156b2c6.chunk.js"
   ]
 }
